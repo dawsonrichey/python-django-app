@@ -20,3 +20,15 @@ cd portfolio-project
 Run project
 Python manage.py runserver
 
+
+
+Instructions for Running application after installation
+
+-Inside the stack skills folder
+
+-source eggs/bin/activate 
+
+-cd portfolio-project
+
+-python manage.py runserver
+
